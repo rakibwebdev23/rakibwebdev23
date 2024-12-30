@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MD Rakib Hasan
 
-Welcome to my GitHub profile! I'm a **Junior Web Developer** with a passion for crafting responsive, user-friendly web applications. With expertise in **HTML**, **CSS**, **JavaScript**, **React.js**, and **Tailwind CSS**, I focus on delivering seamless digital experiences.
+Welcome to my GitHub profile! I'm a **Web Developer** with a passion for crafting responsive, user-friendly web applications. With expertise in **HTML**, **CSS**, **JavaScript**, **React.js**, and **Tailwind CSS**, I focus on delivering seamless digital experiences.
 
 🌱 I’m currently enhancing my backend development skills with **Node.js**, **Express.js**, and **MongoDB**, while also exploring **DevOps** tools to streamline workflows.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Junior Web Developer** with a passion for 
 
 ## 🚀 **About Me**
 - 🌍 Based in **Dhaka, Bangladesh**
-- 🎓 **B.Sc. in Computer Science & Engineering** from Sonargaon University
+- 🎓 **B.Sc. in Computer Science & Engineering** from **Sonargaon University(SU)**
 - 🛠️ Skilled in **frontend** and **backend** web development
 - 🎯 Goal: Build scalable, secure, and user-centric applications
 
