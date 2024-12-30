@@ -48,17 +48,13 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-
-  <div style="display: flex; justify-content: space-evenly; width: 100%; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=github&count_private=true" width="45%" />
-    <img src="https://streak-stats.demolab.com?user=rakibwebdev23&theme=github&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" />
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=radical&count_private=true" alt="Rakib's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibwebdev23&layout=compact&theme=radical" alt="Top Languages" />
   </div>
+  <img src="https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-  <div style="width: 100%; text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibwebdev23&layout=compact&theme=radical" style="width: 100%;" />
-  </div>
-  
 </div>
 
 ---
