@@ -48,14 +48,31 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=radical&count_private=true" alt="Rakib's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibwebdev23&layout=compact&theme=radical" alt="Top Languages" />
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%; gap: 20px;">
+
+  <div style="display: flex; width: 100%; gap: 10px;">
+    <!-- First Row -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=radical&count_private=true" 
+      alt="Rakib's GitHub Stats" 
+      style="width: 50%; height: auto;" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibwebdev23&layout=compact&theme=radical" 
+      alt="Top Languages" 
+      style="width: 50%; height: auto;" 
+    />
   </div>
-  <img src="https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+  <!-- Second Row -->
+  <img 
+    src="https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+    alt="GitHub Streak" 
+    style="width: 100%; height: auto;" 
+  />
 
 </div>
+
 
 ---
 
