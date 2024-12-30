@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
   </div>
 
   <!-- Second Row -->
-  <div style="display: flex; flex-direction: column; width: 100%;">
+    <div style="display: flex; width: 100%;">
     <img 
       src="https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
       alt="GitHub Streak" 
