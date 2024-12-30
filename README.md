@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
 ## 📊 GitHub Stats
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%; gap: 20px;">
 
-  <div style="display: flex; width: 100%; gap: 10px;">
+  <div style="display: flex; flex-direction: row; width: 100%; gap: 10px;">
     <!-- First Row -->
     <img 
       src="https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=radical&count_private=true" 
