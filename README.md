@@ -47,9 +47,16 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
 
 ---
 
-## 📊 **GitHub Stats**
-![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
+<div align="center">
+
+![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=radical&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibwebdev23&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
 
 ---
 
