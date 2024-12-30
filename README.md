@@ -48,19 +48,19 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%; gap: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 1200px; margin: 0 auto; gap: 20px; padding: 10px;">
 
   <!-- First Row with Row-wise Flex -->
-  <div style="display: flex; flex-direction: row; width: 100%; gap: 10px;">
+  <div style="display: flex; flex-wrap: wrap; flex-direction: row; width: 100%; gap: 10px;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=radical&count_private=true" 
       alt="Rakib's GitHub Stats" 
-      style="flex: 1; height: 200px; object-fit: contain;" 
+      style="flex: 1 1 48%; height: auto; object-fit: contain; max-width: 100%;" 
     />
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibwebdev23&layout=compact&theme=radical" 
       alt="Top Languages" 
-      style="flex: 1; height: 200px; object-fit: contain;" 
+      style="flex: 1 1 48%; height: auto; object-fit: contain; max-width: 100%;" 
     />
   </div>
 
@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
     <img 
       src="https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
       alt="GitHub Streak" 
-      style="width: 100%; height: 200px; object-fit: contain;" 
+      style="width: 100%; height: auto; object-fit: contain;" 
     />
   </div>
 
