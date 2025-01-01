@@ -58,7 +58,6 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
 
 </div>
 
-
 ---
 
 ## ✨ **Highlights**
