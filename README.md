@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
 - JavaScript
 
 ### **Frontend Development**
-- React.js, Tailwind CSS, Bootstrap
+- React.js, Tailwind CSS, Bootstrap, Axios, TanStack Query
 
 ### **Backend Development**
 - Node.js, Express.js, Firebase, MongoDB
