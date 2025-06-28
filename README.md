@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
 - HTML, CSS
 
 ### **Programming Languages**
-- JavaScript
+- JavaScript, TypeScript
 
 ### **Frontend Development**
 - React.js, Tailwind CSS, Bootstrap, Axios, TanStack Query
