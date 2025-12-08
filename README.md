@@ -11,20 +11,15 @@
 
 <!-- ======================= ABOUT (FIRST PRIORITY) ======================= -->
 
-## About Me
-Hello! I'm a MERN Stack Developer based in **Dhaka, Bangladesh**, passionate about building  
-modern and efficient web applications. I completed my **B.Sc. in CSE** from  
-**Sonargaon University**.
+## 👨‍💻 About Me
+I’m a MERN Stack Developer from **Dhaka, Bangladesh**, with a strong interest in creating  
+fast, scalable, and modern web applications. I completed my **B.Sc. in CSE** from  
+**Sonargaon University** and work mainly with:
 
-### What I Do
-- Build scalable full-stack applications  
-- Create clean, reusable, component-based UIs  
-- Work with modern tools like **React, Next.js, TypeScript**, and **Node.js**
+**React, Next.js, TypeScript, Node.js, Express.js, MongoDB**
 
-### What I’m Learning
-- Advanced backend architecture  
-- API optimization & best practices  
-- DevOps, CI/CD, and deployment automation
+I love writing clean, maintainable code and building user-friendly interfaces.  
+Currently learning more about backend systems and DevOps workflows.
 
 <!-- ======================= EXPERIENCE ======================= -->
 
