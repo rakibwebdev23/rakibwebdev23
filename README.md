@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">👋 Hi, I'm MD Rakib Hasan</h1>
+<h1 align="center">Hi, I'm MD Rakib Hasan</h1>
 <h3 align="center">MERN Stack Developer | React.js | Next.js | Node.js | MongoDB</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <!-- ======================= ABOUT (FIRST PRIORITY) ======================= -->
 
-## 👨‍💻 About Me
+## About Me
 - Based in **Dhaka, Bangladesh**
 - **B.Sc. in CSE**, Sonargaon University  
 - MERN Stack Developer creating scalable & high-performance applications  
@@ -21,42 +21,11 @@
 
 ---
 
-<!-- ======================= SKILLS (SECOND PRIORITY) ======================= -->
-
-## 🛠️ Skills & Technologies
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript)
-![Redux](https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux)
-![Zustand](https://img.shields.io/badge/Zustand-000000.svg?style=for-the-badge&logo=react)
-
-### 🎨 UI Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap)
-![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3)
-
-### 🛠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase)
-
-### 🧰 Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
-
----
-
 <!-- ======================= EXPERIENCE ======================= -->
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🔹 Frontend Developer — Softvence Agency  
+### Frontend Developer — Softvence Agency  
 **June 2025 – Present | Dhaka, Bangladesh**
 
 - Developing responsive production-ready apps using **Next.js**, **React**, **TypeScript**, **Tailwind CSS**  
@@ -69,9 +38,41 @@
 
 ---
 
+<!-- ======================= SKILLS (SECOND PRIORITY) ======================= -->
+
+## Skills & Technologies
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000000.svg?style=for-the-badge&logo=react)
+
+### UI Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap)
+![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase)
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+
 <!-- ======================= PROFILE CARDS ======================= -->
 
-## 🧑‍🚀 Developer Profile Overview
+## Developer Profile Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibwebdev23&theme=radical" width="90%" />
@@ -86,7 +87,7 @@
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -102,11 +103,11 @@
 
 <!-- ======================= CONTACT ======================= -->
 
-## 📬 Connect With Me
+## Connect With Me
 **Portfolio:** https://rakib-hasan-eb93b.web.app/  
 **LinkedIn:** https://www.linkedin.com/in/md-rakib-hasan-0606b933a/  
 **Email:** **rh.rakibhasan365@gmail.com**  
 
 ---
 
-<h3 align="center">🚀 Let’s build something amazing together!</h3>
+<h3 align="center">Let’s build something amazing together!</h3>
