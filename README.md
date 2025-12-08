@@ -14,13 +14,26 @@
 ## About Me
 - Based in **Dhaka, Bangladesh**
 - **B.Sc. in CSE**, Sonargaon University  
-- MERN Stack Developer focused on scalable & high-performance apps  
-- Specialized in **React, Next.js, TypeScript, Node.js, MongoDB**
-- Goal: Deliver seamless digital experiences & build production-grade apps  
+- MERN Stack Developer focused on creating scalable & high-performance applications  
+- Specialized in **React, Next.js, TypeScript, Node.js, MongoDB**  
+- Goal: Deliver seamless digital experiences & production-ready solutions  
 - Currently learning backend architecture & DevOps workflows  
 
 ---
 
+<!-- ======================= DESIGN SYSTEM / BRANDING ======================= -->
+
+## Design System & Identity
+<p align="center">
+  <img src="https://img.shields.io/badge/Design%20System-Creative%20UI-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/User%20Experience-Responsive%20%26%20Modern-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding%20Style-Clean%20%7C%20Scalable%20%7C%20Maintainable-success?style=for-the-badge" />
+</p>
+
+> I follow a **component-driven**, **clean architecture** approach using:  
+> **Atomic UI design, reusable React components, optimized Next.js structure, API layering, clean code & industry best practices.**
+
+---
 
 <!-- ======================= PROFILE BANNER ======================= -->
 
@@ -33,6 +46,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibwebdev23&theme=radical" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakibwebdev23&theme=radical" width="45%" />
 </p>
+
+---
+
+<!-- ======================= WORK EXPERIENCE ======================= -->
+
+## 💼 Professional Experience
+
+### 🔹 Frontend Developer — Softvence Agency  
+**June 2025 – Present | Dhaka, Bangladesh**
+
+- Building responsive & production-ready web applications using **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**  
+- Developed modern UI for a role-based LMS system with real-time updates using **Zustand** & **Firebase**  
+- Improved performance using **code-splitting**, **lazy-loading**, and **Next.js optimizations**  
+- Implemented reusable UI design components and utilities following a **component-driven architecture**  
+- Collaborated with cross-functional teams to integrate APIs, fix bugs, and deploy on **Vercel** & **Firebase**  
+- Participated in code reviews, sprint planning, and delivered features within deadlines  
 
 ---
 
@@ -64,23 +93,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
-
----
-
-<!-- ======================= PROJECTS ======================= -->
-
-## Featured Projects
-
-### Doctors Clinic (Appointment System)
-✔ React, Tailwind, Firebase Auth  
-✔ Node.js, Express.js, MongoDB  
-🔗 Live: **https://doctors-clinic-18d18.web.app/**  
-
----
-
-### Halal Haven Restaurant
-✔ React.js, Firebase, Express.js, MongoDB  
-🔗 Live: **https://halal-haven.web.app/**  
 
 ---
 
