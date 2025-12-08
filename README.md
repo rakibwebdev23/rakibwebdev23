@@ -1,70 +1,99 @@
-# 👋 Hi, I'm MD Rakib Hasan
+<!-- ======================= HEADER ======================= -->
 
-Welcome to my GitHub profile! I'm a **Web Developer** with a passion for crafting responsive, user-friendly web applications. With expertise in **HTML**, **CSS**, **JavaScript**, **React.js**, and **Tailwind CSS**, I focus on delivering seamless digital experiences.
+<h1 align="center">Hi 👋, I'm MD Rakib Hasan</h1>
+<h3 align="center">MERN Stack Developer | React.js | Next.js | Node.js | MongoDB</h3>
 
-🌱 I’m currently enhancing my backend development skills with **Node.js**, **Express.js**, and **MongoDB**, while also exploring **DevOps** tools to streamline workflows.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakibwebdev23&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 **About Me**
+<!-- ======================= ABOUT ======================= -->
+
+### 👨‍💻 About Me
 - 🌍 Based in **Dhaka, Bangladesh**
-- 🎓 **B.Sc. in Computer Science & Engineering** from **Sonargaon University(SU)**
-- 🛠️ Skilled in **frontend** and **backend** web development
-- 🎯 Goal: Build scalable, secure, and user-centric applications
+- 🎓 **B.Sc. in CSE**, Sonargaon University  
+- 💼 MERN Stack Developer passionate about building scalable & performant apps  
+- ⚙️ Specialized in **React, Next.js, TypeScript, Node.js, MongoDB**
+- 🎯 Goal: Become a full-stack expert & build production-grade applications  
+- 🔭 Currently enhancing backend architecture & DevOps skills  
 
 ---
 
-## 🔧 **Skills & Tools**
-### **Markup and Styling Languages**
-- HTML, CSS
+<!-- ======================= SKILLS ======================= -->
 
-### **Programming Languages**
-- JavaScript, TypeScript
+## 🛠️ Skills & Technologies
 
-### **Frontend Development**
-- React.js, Tailwind CSS, Bootstrap, Axios, TanStack Query
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000000.svg?style=for-the-badge&logo=react)
 
-### **Backend Development**
-- Node.js, Express.js, Firebase, MongoDB
+### 🎨 Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss)
+![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap)
 
-### **Tools**
-- Git & GitHub
-- VS Code, Postman
+### 🛠 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase)
 
----
-
-## 📚 **Currently Learning**
-- Advanced **Node.js** and **Express.js**
-- Database design with **MongoDB**
-- DevOps practices to optimize development pipelines
-
----
-
-## 🌐 **Connect With Me**
-- 🌍 **Portfolio**: [www.rakib-hasan.web.app](https://rakib-hasan-eb93b.web.app/)  
-- 💼 **LinkedIn**: [MD Rakib Hasan](https://www.linkedin.com/in/md-rakib-hasan-0606b933a/)  
-- 📧 **Email**: [rh.rakibhasan365@gmail.com](mailto:rh.rakibhasan365@gmail.com)  
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📊 GitHub Stats
+<!-- ======================= PROJECTS ======================= -->
+
+## 🌟 Featured Projects
+
+### 🔹 Doctors Clinic (Appointment System)
+✔ React, Tailwind, Firebase Auth  
+✔ Node.js, Express.js, MongoDB Backend  
+🔗 Live: **https://doctors-clinic-18d18.web.app/**  
+
+### 🔹 Halal Haven Restaurant
+✔ React.js, Firebase, Express.js, MongoDB  
+🔗 Live: **https://halal-haven.web.app/**  
+
+---
+
+<!-- ======================= STATS ======================= -->
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=radical&count_private=true)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibwebdev23&layout=compact&theme=radical)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibwebdev23&layout=compact&theme=radical&hide_border=true" width="40%" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true" width="55%" />
 
 </div>
 
 ---
 
-## ✨ **Highlights**
-- 🔭 Always exploring new technologies and improving skills  
-- 🤝 Open to collaborations and freelance opportunities  
-- 🌟 Committed to creating clean and scalable code  
+<!-- ======================= CONTACT ======================= -->
+
+## 🌐 Connect With Me
+
+📌 **Portfolio:** https://rakib-hasan-eb93b.web.app/  
+📌 **LinkedIn:** https://www.linkedin.com/in/md-rakib-hasan-0606b933a/  
+📧 **Email:** rh.rakibhasan365@gmail.com  
 
 ---
 
-Feel free to connect with me, explore my repositories, and let’s collaborate to build something extraordinary! 🚀
+<h3 align="center">✨ Let’s build something amazing together!</h3>
