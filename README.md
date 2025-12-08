@@ -64,6 +64,18 @@ I love writing clean, maintainable code and building user-friendly interfaces. C
 
 ---
 
+<!-- ======================= GITHUB STATS ======================= -->
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true" width="55%" />
+
+</div>
+
+---
+
 
 <!-- ======================= PROFILE CARDS ======================= -->
 
@@ -77,18 +89,6 @@ I love writing clean, maintainable code and building user-friendly interfaces. C
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibwebdev23&theme=radical" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakibwebdev23&theme=radical" width="45%" />
 </p>
-
----
-
-<!-- ======================= GITHUB STATS ======================= -->
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true" width="55%" />
-
-</div>
 
 ---
 
