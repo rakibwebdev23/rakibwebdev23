@@ -21,7 +21,7 @@ I love writing clean, maintainable code and building user-friendly interfaces. C
 
 ## Professional Experience
 
-###Frontend Developer - Softvence Agency###
+###Frontend Developer - Softvence Agency
 June 2025 - Present | Dhaka, Bangladesh
 
 - Developing responsive production-ready apps using **Next.js**, **React**, **TypeScript**, **Tailwind CSS**  
@@ -38,7 +38,7 @@ June 2025 - Present | Dhaka, Bangladesh
 
 ## Skills & Technologies
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript)
@@ -46,18 +46,18 @@ June 2025 - Present | Dhaka, Bangladesh
 ![Redux](https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux)
 ![Zustand](https://img.shields.io/badge/Zustand-000000.svg?style=for-the-badge&logo=react)
 
-#### UI Styling
+### UI Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3)
 
-#### Backend & Database
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase)
 
-#### Tools & Environment
+### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman)
