@@ -21,19 +21,6 @@
 
 ---
 
-<!-- ======================= DESIGN SYSTEM / BRANDING ======================= -->
-
-## Design System & Identity
-<p align="center">
-  <img src="https://img.shields.io/badge/Design%20System-Creative%20UI-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/User%20Experience-Responsive%20%26%20Modern-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coding%20Style-Clean%20%7C%20Scalable%20%7C%20Maintainable-success?style=for-the-badge" />
-</p>
-
-> I follow a **component-driven**, **clean architecture** approach using:  
-> **Atomic UI design, reusable React components, optimized Next.js structure, API layering, clean code & best practices.**
-
----
 
 <!-- ======================= PROFILE BANNER ======================= -->
 
