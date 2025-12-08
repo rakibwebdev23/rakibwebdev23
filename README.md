@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">Hi, I'm MD Rakib Hasan</h1>
-<h3 align="center">MERN Stack Developer | React.js | Next.js | Node.js</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakibwebdev23&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
@@ -13,9 +13,7 @@
 
 ## About Me
 I’m a MERN Stack Developer from **Dhaka, Bangladesh**, with a strong interest in creating fast, scalable, and modern web applications. <br/>
-I completed my **B.Sc. in CSE** from **Sonargaon University** and work mainly with:
-
-**React, Next.js, TypeScript, Node.js, Express.js, MongoDB, Redux, Zustand**
+I completed my **B.Sc. in CSE** from **Sonargaon University**
 
 I love writing clean, maintainable code and building user-friendly interfaces. Currently learning more about backend systems and DevOps workflows.
 
