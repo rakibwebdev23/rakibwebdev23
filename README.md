@@ -22,7 +22,7 @@ I love writing clean, maintainable code and building user-friendly interfaces. C
 ## Professional Experience
 
 #### Frontend Developer - Softvence Agency  
-**June 2025 - Present | Dhaka, Bangladesh**
+June 2025 - Present | Dhaka, Bangladesh
 
 - Developing responsive production-ready apps using **Next.js**, **React**, **TypeScript**, **Tailwind CSS**  
 - Built LMS frontend with **role-based UI** and **real-time updates** using **Zustand** & **Firebase**  
