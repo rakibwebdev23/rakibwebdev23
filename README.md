@@ -70,12 +70,12 @@ I love writing clean, maintainable code and building user-friendly interfaces. C
 ## Developer Profile Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibwebdev23&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakibwebdev23&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theme=radical" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theme=radical" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibwebdev23&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakibwebdev23&theme=radical" width="45%" />
 </p>
 
 ---
@@ -85,10 +85,6 @@ I love writing clean, maintainable code and building user-friendly interfaces. C
 ## GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rakibwebdev23&show_icons=true&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibwebdev23&layout=compact&theme=radical&hide_border=true" width="40%" />
 
 <img src="https://streak-stats.demolab.com?user=rakibwebdev23&theme=radical&hide_border=true" width="55%" />
 
