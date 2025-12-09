@@ -192,7 +192,7 @@ const rakibHasan: Developer = {
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
