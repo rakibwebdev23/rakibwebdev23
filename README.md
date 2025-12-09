@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### MERN Stack Developer | Full Stack Engineer
+### MERN Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rakib-hasan-eb93b.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rakib-hasan-0606b933a/)
@@ -183,16 +183,6 @@ const rakibHasan: Developer = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/rakibwebdev23/rakibwebdev23/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🎓 Certifications & Learning
 
 - 🎯 **MERN Stack Development** - Complete Web Development Course
@@ -202,11 +192,9 @@ const rakibHasan: Developer = {
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 📫 Connect With Me
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ### I'm always interested in connecting with fellow developers!
 
