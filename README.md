@@ -1,4 +1,6 @@
-# Hi, I'm MD Rakib Hasan 👋
+<div align="center">
+# Hi, I'm MD Rakib Hasan
+</div>
 
 <div align="center">
   
@@ -15,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **MERN Stack Developer** from **Dhaka, Bangladesh**, specializing in building scalable, high-performance web applications. With a **B.Sc. in Computer Science and Engineering** from **Sonargaon University**, I focus on writing clean, maintainable code and creating seamless user experiences.
 
@@ -30,16 +32,16 @@ const rakib = {
 };
 ```
 
-- 🔭 Currently working on modern web applications using **Next.js** and **TypeScript**
-- 🌱 Learning **System Design**, **Microservices**, and **DevOps**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB**
-- 📫 Reach me at: **rh.rakibhasan365@gmail.com**
-- ⚡ Fun fact: **Coffee → Code → Repeat ☕**
+- Currently working on modern web applications using **Next.js** and **TypeScript**
+- Learning **System Design**, **Microservices**, and **DevOps**
+- Looking to collaborate on **Open Source Projects**
+- Ask me about **React, Next.js, Node.js, Express.js, MongoDB**
+- Reach me at: **rh.rakibhasan365@gmail.com**
+- Fun fact: **Coffee → Code → Repeat ☕**
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -74,7 +76,7 @@ const rakib = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -110,7 +112,7 @@ const rakib = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -120,11 +122,11 @@ const rakib = {
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🏥 Doctors Clinic
+### Doctors Clinic
 **A full-stack appointment scheduling platform with Firebase authentication and real-time updates**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -136,7 +138,7 @@ const rakib = {
 
 ---
 
-### 🍽️ Halal Haven Restaurant
+### Halal Haven Restaurant
 **Modern restaurant website with dynamic menu search and real-time order management**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -150,7 +152,7 @@ const rakib = {
 
 ---
 
-## 💼 What I Offer
+## What I Offer
 
 ```typescript
 interface Developer {
@@ -183,16 +185,16 @@ const rakibHasan: Developer = {
 
 ---
 
-## 🎓 Certifications & Learning
+## Certifications & Learning
 
-- 🎯 **MERN Stack Development** - Complete Web Development Course
-- 🚀 **Advanced React** - Building Scalable Applications
-- 💾 **MongoDB** - Database Design & Management
-- 🔐 **Web Security** - Authentication & Authorization
+- **MERN Stack Development** - Complete Web Development Course
+- **Advanced React** - Building Scalable Applications
+- **MongoDB** - Database Design & Management
+- **Web Security** - Authentication & Authorization
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
@@ -209,7 +211,7 @@ Whether you want to collaborate on a project, discuss tech, or just say hi — f
 
 <br/>
 
-### 💡 Open to:
+### Open to:
 **Full-time opportunities** • **Freelance projects** • **Open source collaboration** • **Tech discussions**
 
 </div>
@@ -218,11 +220,11 @@ Whether you want to collaborate on a project, discuss tech, or just say hi — f
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 <br/>
 
-**Thanks for visiting my profile!** ✨
+**Thanks for visiting my profile!** 
 
 If you find my work interesting, don't forget to ⭐ star my repositories!
 
