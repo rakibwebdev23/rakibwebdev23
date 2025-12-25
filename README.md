@@ -1,9 +1,11 @@
+
+You said:
 <div align="center">
 <h1>Hi, I'm MD Rakib Hasan</h1>
 </div>
 
 <div align="center">
-
+  
 ### MERN Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rakib-hasan-eb93b.web.app/)
@@ -21,7 +23,7 @@
 
 I'm a passionate **MERN Stack Developer** from **Dhaka, Bangladesh**, specializing in building scalable, high-performance web applications. With a **B.Sc. in Computer Science and Engineering** from **Sonargaon University**, I focus on writing clean, maintainable code and creating seamless user experiences.
 
-```javascript
+javascript
 const rakib = {
     location: "Dhaka, Bangladesh",
     education: "B.Sc. in Computer Science & Engineering",
@@ -182,63 +184,4 @@ const rakibHasan: Developer = {
     ]
 };
 
-
----
-
-## Certifications & Learning
-
-- **MERN Stack Development** - Complete Web Development Course
-- **Advanced React** - Building Scalable Applications
-- **MongoDB** - Database Design & Management
-- **Web Security** - Authentication & Authorization
-
----
-
-## Let's Connect & Collaborate
-
-<div align="center">
-
-### I'm always interested in connecting with fellow developers!
-
-Whether you want to collaborate on a project, discuss tech, or just say hi — feel free to reach out!
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://rakib-hasan-eb93b.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-rakib-hasan-0606b933a/)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:rh.rakibhasan365@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github)](https://github.com/rakibwebdev23)
-
-<br/>
-
-### Open to:
-**Full-time opportunities** • **Freelance projects** • **Open source collaboration** • **Tech discussions**
-
-</div>
-
----
-
-<div align="center">
-
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-<br/>
-
-**Thanks for visiting my profile!** 
-
-If you find my work interesting, don't forget to ⭐ star my repositories!
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/rakibwebdev23?label=Follow&style=social)](https://github.com/rakibwebdev23)
-[![Profile Views](https://komarev.com/ghpvc/?username=rakibwebdev23&color=brightgreen&style=flat-square)](https://github.com/rakibwebdev23)
-
-<br/>
-
----
-
-<sub>Made with ❤️ by Rakib Hasan</sub>
-
-<sub>Last Updated: December 2024</sub>
-
-</div>
+--- ## Certifications & Learning - **MERN Stack Development** - Complete Web Development Course - **Advanced React** - Building Scalable Applications - **MongoDB** - Database Design & Management - **Web Security** - Authentication & Authorization --- ## Let's Connect & Collaborate <div align="center"> ### I'm always interested in connecting with fellow developers! Whether you want to collaborate on a project, discuss tech, or just say hi — feel free to reach out! <br/> [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://rakib-hasan-eb93b.web.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-rakib-hasan-0606b933a/) [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:rh.rakibhasan365@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github)](https://github.com/rakibwebdev23) <br/> ### Open to: **Full-time opportunities** • **Freelance projects** • **Open source collaboration** • **Tech discussions** </div> --- <div align="center"> ### "Code is like humor. When you have to explain it, it's bad." – Cory House <br/> **Thanks for visiting my profile!** If you find my work interesting, don't forget to ⭐ star my repositories! <br/> [![GitHub followers](https://img.shields.io/github/followers/rakibwebdev23?label=Follow&style=social)](https://github.com/rakibwebdev23) [![Profile Views](https://komarev.com/ghpvc/?username=rakibwebdev23&color=brightgreen&style=flat-square)](https://github.com/rakibwebdev23) <br/> --- <sub>Made with ❤️ by Rakib Hasan</sub> <sub>Last Updated: December 2024</sub> </div>
