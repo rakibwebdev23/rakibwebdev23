@@ -1,11 +1,9 @@
-
-You said:
 <div align="center">
 <h1>Hi, I'm MD Rakib Hasan</h1>
 </div>
 
 <div align="center">
-  
+
 ### MERN Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rakib-hasan-eb93b.web.app/)
@@ -23,7 +21,7 @@ You said:
 
 I'm a passionate **MERN Stack Developer** from **Dhaka, Bangladesh**, specializing in building scalable, high-performance web applications. With a **B.Sc. in Computer Science and Engineering** from **Sonargaon University**, I focus on writing clean, maintainable code and creating seamless user experiences.
 
-javascript
+```javascript
 const rakib = {
     location: "Dhaka, Bangladesh",
     education: "B.Sc. in Computer Science & Engineering",
