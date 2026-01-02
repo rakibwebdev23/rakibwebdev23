@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **MERN Stack Developer** from **Dhaka, Bangladesh**, specializing in building scalable, high-performance web applications. With a **B.Sc. in Computer Science and Engineering** from **Sonargaon University**, I focus on writing clean, maintainable code and creating seamless user experiences.
 
@@ -151,7 +151,7 @@ const rakib = {
 
 ---
 
-## 🧩 What I Offer
+## What I Offer
 
 ```ts
 interface Developer {
@@ -209,7 +209,7 @@ Whether you want to collaborate on a project, discuss tech, or just say hi — f
 
 <br/>
 
-### 🚀 Open to:
+### Open to:
 **Full-time opportunities** • **Freelance projects** •  
 **Open source collaboration** • **Tech discussions**
 
