@@ -11,7 +11,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rh.rakibhasan365@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakibwebdev23)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rakibwebdev23&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
