@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a passionate **MERN Stack Developer** from **Dhaka, Bangladesh**, specializing in building scalable, high-performance web applications. With a **B.Sc. in Computer Science and Engineering** from **Sonargaon University**, I focus on writing clean, maintainable code and creating seamless user experiences.
+I'm a passionate **Full Stack Developer** from **Dhaka, Bangladesh**, specializing in building scalable, high-performance web applications. With a **B.Sc. in Computer Science and Engineering** from **Sonargaon University**, I focus on writing clean, maintainable code and creating seamless user experiences.
 
 ```javascript
 const rakib = {
